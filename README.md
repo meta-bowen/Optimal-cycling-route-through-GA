@@ -1,2 +1,2 @@
 # TSP-problem-in-sanya-GA
-通过GA解决关于中国三亚骑行路线的最优路径问题。共选择20个适合骑行者的自然景观地点（经纬度），并利用Tkinter库进行GUI显示。通过不断迭代获得满意的结果。（PS:经纬度精确到小数点后10位，经纬度数据来源为谷歌地图）
+Solve the problem of the optimal cycling route in Sanya, China through GA. A total of 20 biker-friendly natural landscape locations (latitude and longitude) were selected and GUI displayed using the Tkinter library. Satisfactory results are achieved through continuous iteration. (PS: latitude and longitude to 10 decimal places, from Google Maps)
